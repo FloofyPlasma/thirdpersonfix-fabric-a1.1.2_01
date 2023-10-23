@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.slainlight.thirdpersonfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "GameRendererMixin",
+    "MinecraftMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

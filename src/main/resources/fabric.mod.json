@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "thirdpersonfix",
+  "version": "${version}",
+  "name": "Third Person Fix",
+  "description": "Adds the second mode of third person",
+  "authors": [
+    "Slainlight"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/thirdpersonfix/icon.png",
+
+  "environment": "*",
+  "mixins": [
+    "thirdpersonfix.mixins.json"
+  ],
+
+  "depends": {
+    "minecraft": "1.0.0-beta.7.3"
+  }
+}
