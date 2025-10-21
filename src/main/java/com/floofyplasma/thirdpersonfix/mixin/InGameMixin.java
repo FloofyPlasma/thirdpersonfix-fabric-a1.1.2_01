@@ -1,7 +1,9 @@
-package com.slainlight.thirdpersonfix.mixin;
+package com.floofyplasma.thirdpersonfix.mixin;
 
+// TODO: What is this originally meant to do?
+/*
 import com.slainlight.thirdpersonfix.ThirdPersonFixMod;
-import net.minecraft.client.gui.InGame;
+//import net.minecraft.client.gui.InGame;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
@@ -15,3 +17,4 @@ public class InGameMixin {
         }
     }
 }
+*/

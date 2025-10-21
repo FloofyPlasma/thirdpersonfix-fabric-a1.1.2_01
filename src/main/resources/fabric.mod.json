@@ -5,7 +5,8 @@
   "name": "Third Person Fix",
   "description": "Adds the second mode of third person",
   "authors": [
-    "Slainlight"
+    "Slainlight",
+    "FloofyPlasma"
   ],
   "license": "MIT",
   "icon": "assets/thirdpersonfix/icon.png",
@@ -16,6 +17,6 @@
   ],
 
   "depends": {
-    "minecraft": "1.0.0-beta.7.3"
+    "minecraft": "1.0.0-alpha.1.2.1"
   }
 }

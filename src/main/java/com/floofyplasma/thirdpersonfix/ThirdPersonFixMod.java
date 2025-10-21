@@ -1,4 +1,4 @@
-package com.slainlight.thirdpersonfix;
+package com.floofyplasma.thirdpersonfix;
 
 public class ThirdPersonFixMod
 {
